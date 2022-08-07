@@ -1,0 +1,2 @@
+nacos=cn.edu.hubu.rpc.core.registry.nacos.NacosRegistry
+zk=cn.edu.hubu.rpc.core.registry.zk.ZookeeperRegister2

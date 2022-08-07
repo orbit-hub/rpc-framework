@@ -1,0 +1,10 @@
+server:
+  port: 9010
+
+rpc:
+  remoting:
+    port: 9999
+  registry:
+#    address: 127.0.0.1:8848
+    address: 120.48.89.16:2181
+#      namespace
